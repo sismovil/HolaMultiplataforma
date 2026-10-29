@@ -1,0 +1,7 @@
+TEAM_ID=
+
+PRODUCT_NAME=HolaMultiplataforma
+PRODUCT_BUNDLE_IDENTIFIER=edu.unicauca.sismovil.holamultiplataforma.HolaMultiplataforma$(TEAM_ID)
+
+CURRENT_PROJECT_VERSION=1
+MARKETING_VERSION=1.0
